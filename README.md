@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subhratava
-- 👀 I’m interested in Data Science
+- 👀 I am a Data Scientist
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 subhratava@gmail.com
 
